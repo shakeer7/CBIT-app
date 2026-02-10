@@ -1,6 +1,6 @@
 # CBIT-CONNECT 
 
-About CBIT Connect
+--About CBIT Connect
 
 CBIT Connect is a unified super app designed to bring the entire CBIT ecosystem into a single digital platform for students, faculty, and alumni.
 
@@ -8,7 +8,7 @@ Today, CBIT services are scattered across multiple websites, notice boards, What
 
 CBIT Connect solves this by becoming the single digital entry point for everything related to CBIT.
 
-What the App Brings Together
+--What the App Brings Together
 
 All CBIT websites in one place
 
@@ -26,7 +26,7 @@ Interactive campus map
 
 Centralized notifications and search
 
-Key Highlight: Alumni RFC (Request for Contact)
+--Key Highlight: Alumni RFC (Request for Contact)
 
 Students can discover alumni working in industry, send a structured request to connect, and build meaningful mentorship and career guidance directly through the app.
 
@@ -42,11 +42,11 @@ Alumni to stay connected and mentor students
 
 Administration to digitize processes and communication
 
-Vision
+--Vision
 
 To transform CBIT into a digitally connected campus where information, opportunities, and people are seamlessly linked through one smart platform.
 
-Outcome
+--Outcome
 
 CBIT Connect is not just an app.
 It becomes the official digital ecosystem of CBIT.
